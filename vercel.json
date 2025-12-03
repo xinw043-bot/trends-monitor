@@ -1,6 +1,6 @@
 {
-  "buildCommand": "chmod +x node_modules/.bin/vite && npm run build",
-  "installCommand": "npm install --unsafe-perm --force",
+  "installCommand": "npm install --unsafe-perm --force", 
+  "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "node": "20.x"
+  "node": "20.x" 
 }
